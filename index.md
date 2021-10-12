@@ -2,7 +2,7 @@
 
 School of Computer Science
 
-The University of Sydncy
+The University of Sydney
 
 Email:chyu8051@uni.sydney.edu.au
 
