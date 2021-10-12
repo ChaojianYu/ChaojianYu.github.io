@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Chaojian Yu
 
-You can use the [editor on GitHub](https://github.com/ChaojianYu/ChaojianYu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+School of Computer Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The University of Sydncy
 
-### Markdown
+Email:chyu8051@uni.sydney.edu.au
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Interest
 
-```markdown
-Syntax highlighted code block
+Adversarial Learning, Image Classification
 
-# Header 1
-## Header 2
-### Header 3
+## Education
+**The University of Sydney** [2021-present]
 
-- Bulleted
-- List
+Ph.D in Computer Science
 
-1. Numbered
-2. List
+**Huazhong University of Science and Technology** [2017-2020]
 
-**Bold** and _Italic_ and `Code` text
+M.S. in Information and Communication Engineering
 
-[Link](url) and ![Image](src)
-```
+**Huazhong University of Science and Technology** [2013-2017]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+B.S. in Telecommunications Engineering
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChaojianYu/ChaojianYu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Publication
+Chaojian Yu, Xinyi Zhao, Qi Zheng, Peng Zhang, Xinge You. ``Hierarchical Bilinear Pooling for Fine-Grained Visual Recognition.'' European Conference on Computer Vision (ECCV), 2018. [paper](https://arxiv.org/abs/1807.09915) [code](https://github.com/ChaojianYu/Hierarchical-Bilinear-Pooling)
